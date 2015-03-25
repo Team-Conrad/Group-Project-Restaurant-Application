@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Restaurant_Application
 {
-    public partial class Form1 : Form
+    public partial class frmMessageBox : Form
     {
-        public Form1()
+        public frmMessageBox()
         {
             InitializeComponent();
         }
